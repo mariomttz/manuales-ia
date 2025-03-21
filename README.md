@@ -31,6 +31,6 @@ Cada uno de estos manuales cuenta con un cuaderno de Jupyter para la práctica y
 - **Archivos PDF:**  
   Manuales detallados que acompañan a los cuadernos, ofreciendo explicaciones y ejemplos prácticos.
 
-## Reconocimientos y Agradecimientos 🙏
+## Reconocimientos y agradecimientos 🙏
 
 Este trabajo se realizó con el apoyo del Programa **UNAM-DGAPA-PAPIME** dentro del Proyecto para la innovación y mejoramiento para la enseñanza, con clave **PE110324**, _Diseño didáctico multi-seriado para potenciar habilidades de modelación matemática y reflexión crítica en el aprendizaje de la Inteligencia Artificial._
